@@ -1,0 +1,8 @@
+{
+  "regions": ["arn1"],
+  "functions": {
+    "api/summarize.ts": {
+      "maxDuration": 45
+    }
+  }
+}
